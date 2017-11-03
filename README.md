@@ -5,7 +5,7 @@
 ## Installation
 
 ```bash
-ember install ember-cli-crisp
+ember install ember-crisp
 ```
 
 ## Configuration
