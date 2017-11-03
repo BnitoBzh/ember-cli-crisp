@@ -1,17 +1,21 @@
 {
   "name": "ember-cli-crisp",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Crisp integration for Ember",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember",
+    "ember-cli",
+    "crisp",
+    "service"
   ],
   "license": "MIT",
-  "author": "",
+  "author": "Benoit FIEVET <fievet.benoit@gmail.com>",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "https://github.com/BnitoBzh/ember-cli-crisp",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
